@@ -17,9 +17,9 @@ Feel free to access [my portfolio](http://chopchop.com).
 **Mauris pr**
 
 ###Crazy good software
-*Rapid development
-+Tested
--24/7 Support
+* Rapid development
++ Tested
+- 24/7 Support
 
 ### Reasons to choose us
 1. Price
